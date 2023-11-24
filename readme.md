@@ -3,8 +3,7 @@
 
 ## Introduction
 
-This repository contains a Docker container setup for an OpenVPN client, specifically designed to be used as a sidecar container in Kasm Workspaces. It enables secure and private network access within the Kasm workspace environment.
-
+This repository contains a Docker container setup for an OpenVPN client, specifically designed to be used as a sidecar container in Kasm Workspaces. It enables secure and private network access within the Kasm workspace environment. Of you can use it as a standalone vpn-gateway for containers
 ## Prerequisites
 
 - Docker installed on your system.
